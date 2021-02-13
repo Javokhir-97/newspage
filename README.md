@@ -1,1 +1,2 @@
 "# newspage" 
+responsive static page
